@@ -6,7 +6,8 @@ This project is based on an infrared (IR) sensor, which detects the presence of 
 
 I am  working on this simple DIY project to help students/staffs use in the schools for handwashing in the refugee settlements
 
-![IMG_20230226_131650_](https://user-images.githubusercontent.com/56769901/221420622-7e17863c-800b-4edf-89b6-9c202ab74558.jpg)
+
+![P1290895](https://user-images.githubusercontent.com/56769901/221420999-a6e2697f-3c9f-4f98-9158-5ee8311a3065.JPG)
 
 
 # Challenges
