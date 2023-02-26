@@ -6,7 +6,7 @@ This project is based on an infrared (IR) sensor, which detects the presence of 
 
 I am  working on this simple DIY project to help students/staffs use in the schools for handwashing in the refugee settlements
 
-Challenges
+***Challenges
 
 The mechanical part ( system to push water flow when running the system and closing after running the system ) of the prototype has been difficult to work on
 
