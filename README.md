@@ -12,23 +12,13 @@ I am  working on this simple DIY project to help students/staffs use in the scho
 
 ![WhatsApp Image 2023-02-23](https://user-images.githubusercontent.com/56769901/221421296-1a5e8f44-ec3c-451b-b48d-76a2a11cdb44.jpeg)
 
-# What Transpired?
+* # What Transpired?
 
 Following https://wikifactory.com/+criticalmaking/stories/automatic-h20-dispenser-in-rhino-camp-refugee-settlement ,i want to promote the culture of waste recycling (E-waste and plastic waste ) in the local communities.
 
-# Why Automatic water Dispenser?
+* # Why Automatic water Dispenser?
 
 When washing hands using a conventional/traditional tap, you must touch it with your dirty hands to turn it on—leaving behind germs, bacteria and viruses Automatic taps controlled by a sensor are therefore a good alternative for making hand washing more hygienic, especially in schools where students live
-
-* # Challenges
-
-The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
-
-* Future Improvements
-
-Further development of the project - proper casing and recargeble component 
-
-Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
 
 * # Materials
 
@@ -57,3 +47,15 @@ LED Light
 Water Container
 
 Bread board
+
+* # Tools and equipment's
+
+* # Challenges
+
+The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
+
+* Future Improvements
+
+Further development of the project - proper casing and recargeble component 
+
+Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
