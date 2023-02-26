@@ -63,8 +63,8 @@ When washing hands using a conventional/traditional tap, you must touch it with 
 
 The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
 
-*Future Improvements
+*Future Improvements*
 
 Further development of the project - proper casing and recargeble component 
 
-*Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
+*Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser*
