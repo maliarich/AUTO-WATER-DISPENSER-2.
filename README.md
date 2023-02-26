@@ -14,17 +14,17 @@ I am  working on this simple DIY project to help students/staffs use in the scho
 ![WhatsApp Image 2023-02-23](https://user-images.githubusercontent.com/56769901/221421296-1a5e8f44-ec3c-451b-b48d-76a2a11cdb44.jpeg)
 
 
-*# Challenges
+* # Challenges
 
 The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
 
-*Future Improvements
+* Future Improvements
 
 Further development of the project - proper casing and recargeble component 
 
 Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
 
-# Materials
+* # Materials
 
  TIP32C PNP transistor
 
