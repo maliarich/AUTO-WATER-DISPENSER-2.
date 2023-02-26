@@ -6,6 +6,9 @@ This project is based on an infrared (IR) sensor, which detects the presence of 
 
 I am  working on this simple DIY project to help students/staffs use in the schools for handwashing in the refugee settlements
 
+![IMG_20230226_131650_](https://user-images.githubusercontent.com/56769901/221420622-7e17863c-800b-4edf-89b6-9c202ab74558.jpg)
+
+
 # Challenges
 
 The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
@@ -15,9 +18,6 @@ Future Improvements
 Further development of the project - proper casing and recargeble component 
 
 Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
-
-![IMG_20230226_131650_754](https://user-images.githubusercontent.com/56769901/221420333-077cd108-b7df-4013-b142-f64916d36a73.jpg)
-
 
 # Materials
 
