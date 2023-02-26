@@ -8,13 +8,16 @@ I am  working on this simple DIY project to help students/staffs use in the scho
 
 # Challenges
 
-The mechanical part ( system to push water flow when running the system and closing after running the system ) of the prototype has been difficult to work on
+The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
 
 Future Improvements
 
 Further development of the project - proper casing and recargeble component 
 
 Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
+
+![IMG_20230226_131650_754](https://user-images.githubusercontent.com/56769901/221420333-077cd108-b7df-4013-b142-f64916d36a73.jpg)
+
 
 # Materials
 
