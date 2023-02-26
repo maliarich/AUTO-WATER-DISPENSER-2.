@@ -8,10 +8,6 @@ I am  working on this simple DIY project to help students/staffs use in the scho
 
 ![P1290895](https://user-images.githubusercontent.com/56769901/221420999-a6e2697f-3c9f-4f98-9158-5ee8311a3065.JPG)
 
-* # PROTOTYPE.
-
-![WhatsApp Image 2023-02-23](https://user-images.githubusercontent.com/56769901/221421296-1a5e8f44-ec3c-451b-b48d-76a2a11cdb44.jpeg)
-
 * # What Transpired?
 
 Following https://wikifactory.com/+criticalmaking/stories/automatic-h20-dispenser-in-rhino-camp-refugee-settlement ,i want to promote the culture of waste recycling (E-waste and plastic waste ) in the local communities.
