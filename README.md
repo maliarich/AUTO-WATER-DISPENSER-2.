@@ -16,7 +16,7 @@ Further development of the project - proper casing and recargeble component
 
 Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser.
 
-Materials
+# Materials
 
  TIP32C PNP transistor
 
