@@ -50,6 +50,15 @@ Bread board
 
 * # Tools and equipment's
 
+* Soldering gun
+
+* Cutter 
+
+* Scissors
+
+* Power
+
+
 * # Challenges
 
 The IR proximity sensor detects external radiotions/light on exposer to sun heat/light.
