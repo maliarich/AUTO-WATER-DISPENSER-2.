@@ -68,3 +68,5 @@ The IR proximity sensor detects external radiotions/light on exposer to sun heat
 Further development of the project - proper casing and recargeble component 
 
 *Vision Statement Providing refugee schools with non touchable (Automatic) locally made water dispenser*
+
+Watch Video: https://drive.google.com/file/d/1cndRafBpHBmZc7OosZFS8g251P4TOtBx/view?usp=sharing
